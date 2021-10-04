@@ -1,0 +1,13 @@
+{
+  "name": "cra-template-tiptap",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "tiptap"
+  ],
+  "description": "Create React App template for Tiptap",
+  "author": "alb",
+  "license": "MIT"
+}
